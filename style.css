@@ -84,6 +84,7 @@ body{
     border-radius: 10px;
     text-align: center;
     padding: 17px;
+    transition: 0.5s ease-in-out;
 }
 .event a:hover{
     background-image: linear-gradient(135deg, #ff0000 60%, #000000be);
